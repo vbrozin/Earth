@@ -79,6 +79,7 @@
     <Compile Include="Assets\Earth\Scripts\EarthScript.cs" />
     <Compile Include="Assets\Earth\Scripts\MoveScript.cs" />
     <Compile Include="Assets\Earth\Scripts\SphereScript.cs" />
+    <Compile Include="Assets\RequestManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Earth\Materials\EarthShader.shader" />
